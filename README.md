@@ -8,10 +8,9 @@ Clone repository:
 git clone https://github.com/arshegor/canal_service_tasks
 ```
 ### Step 2
-Create source directory
+Go to project directory
 ```sh
 cd canal_service_tasks
-mkdir source
 ```
 ### Step 3
 - Put into source directory **json**-file from **Google Drive Api** 
